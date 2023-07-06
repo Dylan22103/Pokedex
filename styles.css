@@ -1,0 +1,30 @@
+#navegador{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}    
+
+#texto_ingresado{
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 20px yellow;
+}
+
+.header-background {
+    background-image: url(https://fondosmil.com/fondo/12145.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
+#texto_ingresado{
+    width: 500px;
+}
+
+#lupa{
+    margin: 0 5px;
+}
+
+.custom-section #resultados{
+    display: flex;
+}
